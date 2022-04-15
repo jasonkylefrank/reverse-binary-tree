@@ -2,8 +2,11 @@
  * This challenge is to "reverse" (or "invert") a binary tree.
  * That means that we want to swap the "left" and "right" child of each
  * node in the tree.
- * I got the idea from this part of a YouTube video: https://youtu.be/vHKzIPwWQkg?t=1282
+ * I got the idea for this challenge from this part of a YouTube video: https://youtu.be/vHKzIPwWQkg?t=1282
  * It shows a diagram of the "before" and "after" state of the tree for reference.
+ * Note that my solution may look quite a bit different from the result in that
+ * video because I stopped watching it once I saw the challenge (so I could just 
+ * solve it myself).
  */
 
 
